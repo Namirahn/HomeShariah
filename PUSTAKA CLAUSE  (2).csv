@@ -1,0 +1,998 @@
+﻿No.,Clause,Label,Standard_Body,Standard_No,Clause_No,Year,Page,Justification
+1,"""This product provides you with coverage for the contents of your home for the loss or damage caused by fire, lightning, explosions...""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,"The clause is compliant because it provides mutual protection against defined real risks, which aligns with the core principles of Takaful cooperation."
+2,"""...the contents of your home for the loss or damage caused by... theft, hurricane, earthquake, flood...""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,The inclusion of pure and catastrophic risks is compliant as Shariah recognizes the validity of mitigating unexpected natural disasters through a pool fund.
+3,"""The product is for Dwelling with Class 1A Construction only.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.2,2013,14,This risk selection criteria is compliant because setting clear underwriting parameters eliminates excessive uncertainty (Gharar) in risk admission.
+4,"""Hibah refers to a transfer of ownership of an asset from a donor to a recipient without any consideration.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/1,2015,645,"The definition is compliant as it accurately reflects the Shariah definition of a unilateral, voluntary gift without commercial counter-exchange."
+5,"""Under this product, the benefits payable from General Takaful Fund (""GTF"") is based on Hibah.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/1/2002,2015,646,Utilizing Hibah as the mechanism to distribute the claims from the mutual pool fund ensures compliance with charity-based financial framework.
+6,"""The Nominee may receive the Benefit payable under this product if the Nominee is a beneficiary under conditional Hibah.""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 5",2013,248,The execution of conditional Hibah for Takaful nomination is compliant as it serves as a valid estate planning tool approved by regulatory standards.
+7,"""Ju'alah refers to a contract where a party offers a specified reward to another party who achieved a determined result.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/3,2015,648,The definition is compliant as it correctly establishes the legal framework for a reward-based contract applied to investment or fund management performance.
+8,"""...allows Syarikat Takaful Malaysia Am Berhad... to receive a portion of the distributable surplus arising from the GTF as a performance incentive...""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/3/2002,2015,649,Rewarding the operator with a surplus share based on Ju'alah is compliant because it incentivizes efficient management of the risk fund.
+9,"""Qard refers to a contract of lending money by a lender to a borrower where the latter is bound to repay an equivalent replacement amount...""",1,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/1,2015,482,The definition is compliant because it accurately frames Qard as a non-interest-bearing benevolent loan that strictly requires principal repayment.
+10,"""...Takaful Malaysia will lend an amount of money to the GTF without interest if the GTF is in deficit.""",1,IFSA,Islamic Financial Services Act 2013,Section 95,2013,112,Providing an interest-free loan (Qard) by the operator to cover fund deficits is a mandatory requirement to safeguard the interests of participants.
+11,"""Tabarru' means donation for charitable purposes.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),2/1,2015,640,"The definition is compliant as it removes the commercial exchange element, thereby distinguishing Takaful from conventional insurance."
+12,"""Under this product, the participant donates a portion of the contribution to the GTF to help other participants.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),3/2,2015,641,The concept of pooling donations to assist peers in distress is compliant as it fulfills the Shariah requirement of mutual solidarity (Taa'wun).
+13,"""Tabarru' takes into effect when you contribute to the GTF.""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 2",2013,245,Specifying the immediate effect of the donation upon contribution is compliant because it legalizes the separation of risk ownership.
+14,"""Wakalah refers to a contract where a party, as principal authorizes another party as his agent to perform a particular task...""",1,AAOIFI,Shariah Standard No. 23 (Agency),2/1,2015,562,The clause is compliant as it properly outlines the baseline authority and relationship between a principal and an authorized agent.
+15,"""...with or without the imposition of a fee.""",1,AAOIFI,Shariah Standard No. 23 (Agency),4/1,2015,565,The statement is compliant since Shariah allows an agency contract to be executed either voluntarily or for a pre-determined service fee.
+16,"""...the participant authorizes Takaful Malaysia to manage the GTF and in return, Takaful Malaysia will receive the Wakalah fee.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/1/2001,2015,645,The appointment of the operator as a paid agent (Wakil) to manage the risk pool is compliant with the standard Wakalah Takaful model.
+17,"""This product covers: i) Loss or damage to your home contents due to fire, lightning and explosion caused by gas used for domestic purposes""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/2,2015,643,"The coverage is compliant because the insured perils are material, specific, and do not involve any elements of gambling or pure speculation."
+18,"""ii) Loss or damage to your home contents by aircraft, road vehicles or animals...""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/2,2015,643,"This clause is compliant because it addresses external physical risks that are beyond the control of the participant, qualifying them for indemnification."
+19,"""...bursting or overflowing of water tanks or pipes, theft by forcible and violent entry, windstorm, earthquake and flood""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.2.1,2013,18,The inclusion of internal and external property damage perils is compliant as part of sound risk management and explicit loss classification.
+20,"""iii) Damage to mirrors""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,Including ancillary household items under the main property coverage is compliant since they represent legitimate asset values owned by the participant.
+21,"""iv) Servant's property""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,Extending protection to a dependent party's belongings within the household is compliant because it promotes social responsibility and welfare.
+22,"""v) Liability to third parties for accidents in your house""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/4,2015,644,Third-party liability protection (Takaful Mas'uliyyah) is compliant because Shariah recognizes financial indemnity against torts and accidents.
+23,"""vi) Compensation for fatal injury occurring by visible violence caused by thieves or by fire""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/4,2015,644,Providing ancillary personal accident benefits within a property fund is compliant since it directly addresses losses stemming from the main peril.
+24,"""vii) Rent Coverage""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/2,2015,643,Alternative accommodation or loss of rent coverage is compliant because it compensates for actual consequential financial loss following an accident.
+25,"""viii) Additional Coverage: a) Deterioration of food in the freezer b) Cost of replacing locks/keys""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,"These secondary coverages are compliant because the underlying assets and operational costs are legitimate, quantifiable, and transparent."
+26,"""c) Cost of replacing lost legal documents d) Cleaning services/laundry cost""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,The inclusion of restoration expenses is compliant as it serves to return the affected participant back to their pre-loss financial position.
+27,"""e) Loss or damage to water filter outside building (within the compound) other than by fire or lightning""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,Defining the exact perimeter and geographical limit of covered properties is compliant because it effectively removes ambiguity (Gharar).
+28,"""You may extend coverage to the following risks by paying additional contribution...""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.1,2013,12,"Offering optional endorsements for extra contribution is compliant, provided that the new premium goes directly into the mutual Tabarru' fund."
+29,"""Subsidence and landslip - 0.081% x Sum Covered/Plan Selected""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.3,2013,15,Utilizing fixed percentage rates based on the total sum covered is compliant because it ensures mathematical clarity and fair underwriting pricing.
+30,"""Riot, strike and malicious damage (RSMD) - 0.010% x Sum Covered/Plan Selected""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.3,2013,15,"This explicit pricing formula is compliant since it allows the consumer to know the exact monetary obligation beforehand, eliminating Jahl."
+31,"""Duration of cover is for one (1) year. You need to renew your certificate annually.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,Setting a definitive annual duration for the certificate is compliant as Shariah requires time-bound clarity in non-perpetual financial contracts.
+32,"""The benefit(s) payable under eligible product is protected by Perbadanan Insurans Deposit Malaysia (PIDM) up to limits.""",1,IFSA,Islamic Financial Services Act 2013,Section 226,2013,201,"Relying on a national statutory protection framework is compliant because it protects consumer wealth, which fulfills the Maqasid Shariah."
+33,"""Contribution Plan for Individual / Corporate Participant (Table of Fixed Sums Covered vs Annual Contribution)""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),3/3,2015,641,The publication of a fixed contribution matrix is compliant as it offers transparency and prevents arbitrary pricing adjustments by the firm.
+34,"""**The annual contribution as stated in the above table is inclusive of Service Tax and Stamp Duty.""",1,IFSA,Islamic Financial Services Act 2013,Section 141,2013,145,Clearly disclosing the inclusion of statutory taxes within the overall premium is compliant to avoid unexpected financial disputes.
+35,"""Wakalah Fee: 50% of contribution of which: Commission: 15%, Other expenses: 35%""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/1/2001,2015,645,Highly Compliant. Full upfront breakdown of the agency fee percentage is strictly compliant with Shariah rules against hidden fees.
+36,"""Service Tax: 8% of the contribution paid""",1,IFSA,Islamic Financial Services Act 2013,Section 141,2013,145,Charging a standard government-mandated service tax is compliant since financial institutions must abide by the laws of their operating state.
+37,"""Pursuant to Paragraph 5 of Schedule 9 of the Islamic Financial Services Act 2013... duty to take reasonable care not to make a misrepresentation...""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 5",2013,248,Enforcing a strict duty of disclosure is compliant with the fundamental Islamic ethical values of honesty (Siddiq) and trustworthiness (Amanah).
+38,"""Failure to take reasonable care in answering the questions may result in avoidance of your contract of Takaful, refusal or reduction of your claim(s)...""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,Reserving the right to void contracts based on participant misrepresentation is compliant to prevent fraud (Tadlis) against the common fund.
+39,"""Non-Consumer Takaful Contract: Pursuant to Paragraph 4(1) of Schedule 9 of the Islamic Financial Services Act 2013...""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 4",2013,247,Segregating consumer contracts from non-consumer contracts is compliant as commercial risks require a different level of standard disclosure.
+40,"""Market value basis - we will pay the full cost of repairing the damaged property less the amount for wear, tear and depreciation.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6,2015,644,Factoring in market depreciation during claim settlements is compliant because it prevents the participant from unjust enrichment (Riba).
+41,"""Replacement value basis - we will reinstate, repair or replace... without any deductions being made for wear, tear or depreciation...""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6,2015,644,Offering a reinstatement basis without depreciation is compliant as long as it is mutually agreed upon during the contract inception (Taradhi).
+42,"""Under coverage - you must ensure that the sum covered is adequate, otherwise, average condition will apply...""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6,2015,644,The application of the average condition is compliant because it ensures equity between the lower premium paid and the actual risk exposed.
+43,"""Excess is the first amount of loss that you have to bear in the event of a claim.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.2.3,2013,20,Incorporating deductibles or excesses is compliant as an effective risk management tool used to minimize moral hazards among pool members.
+44,"""Major Exclusions: War, invasion, act of foreign enemy, hostilities or any act of terrorism.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.2,2013,14,Omitting mega-catastrophic geopolitical events is compliant because protecting the liquidity of the public fund from collapse is critical.
+45,"""Exclusion: Beer, liquor, pictures of animals or things used for religious purpose such as idols.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3/2002,2015,644,Highly Compliant. Explicitly excluding Shariah-prohibited materials ensures that the pool fund does not facilitate or validate unIslamic elements.
+46,"""Any other events prohibited by Shariah principles""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),1/2,2015,639,This structural catch-all clause is compliant as it reinforces the supremacy of Shariah law across all unseen developments of the fund.
+47,"""Can I cancel my certificate? You may cancel... entitled to a partial refund of the contribution provided you have not made any claim.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,Allowing a pro-rata premium refund upon early cancellation is compliant because it prevents the operator from retaining unearned money unjustly.
+48,"""Syarikat Takaful Malaysia Am Berhad... is licensed under the Islamic Financial Services Act 2013 and regulated by Bank Negara Malaysia.""",1,IFSA,Islamic Financial Services Act 2013,Section 8,2013,15,Formal institutional licensing under an Islamic regulatory framework is compliant and essential to establish legal trust (Sultah).
+49,"""The Nominee may receive the Benefit payable under this product if the Nominee is a beneficiary under conditional Hibah.""",0,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),6/1,2015,651,"Non-Compliant (AAOIFI Baseline): Under global AAOIFI standards, a nominee must strictly act as a trustee/estate executor to distribute funds via Faraid, not as an absolute individual owner."
+50,"""Stamp duty is exempted... until 31/12/2025. Thereafter, RM10 stamp duty shall be payable starting from 1/1/2026 regardless of the annual contribution amount.""",1,IFSA,Islamic Financial Services Act 2013,Section 141,2013,145,Notifying the definitive end date of a tax exemption and the future implementation of charges is compliant to protect transparency.
+51,"""The investment of Takaful funds meant for house protection must be made in channels that do not contradict Shariah rules.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),7/1,2015,653,The allocation of accumulated household Takaful contributions into interest-free and halal assets is mandatory to maintain total fund purity.
+52,"""It is prohibited for the Takaful operator to trade or invest the home participant's premium in conventional bonds or usurious equities.""",0,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),7/2,2015,654,Non-Compliant Baseline: Any exposure of home asset funds to interest-bearing instruments (Riba) completely voids the spiritual and legal validity of the Takaful contract.
+53,"""The home contents policy shall explicitly define the method of calculating the operator's share in the investment profits of the reserve fund.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/2/1,2015,647,Specifying the exact profit-sharing ratio for house fund investments prevents conflict and eliminates structural ambiguity between parties.
+54,"""The institution must ensure that the property being financed or covered under a Takaful scheme is free from severe structural defects at inception.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.5,2013,16,Conducting pre-underwriting physical evaluation on properties is compliant as it avoids entering into a contract involving high elements of avoidable risk.
+55,"""An institution shall establish a clear framework for managing the concentration of risks in its property financing and housing Takaful portfolios.""",1,IFSB,IFSB-14 (Risk Management for Takaful),4.2.1,2013,28,Monitoring geographical risk concentration prevents the collective housing fund from suffering catastrophic insolvency during localized disasters.
+56,"""The Takaful operator shall not charge any additional premium or loading on home policies after the certificate is issued without explicit new mutual consent.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,Arbitrarily increasing contribution rates midway through a housing contract is prohibited because it violates the principle of mutual contractual consent.
+57,"""Where a property Takaful certificate is terminated by the operator, the participant is entitled to receive the unearned contribution back fully.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5/2,2015,645,Returning the unused portion of the home contribution upon operator termination is compliant as holding onto unearned public funds is financial injustice.
+58,"""The Takaful operator must establish separate accounts for the home participants' fund and the shareholders' fund to prevent commingling.""",1,IFSA,Islamic Financial Services Act 2013,Section 90,2013,108,Keeping operational capital separated from the home participants' risk pool is a fundamental prerequisite to prevent operational conflict of interest.
+59,"""Any financial deficit in the housing risk fund must be immediately rectified using a Qard Hasan advanced by the shareholder entity.""",1,IFSA,Islamic Financial Services Act 2013,Section 95,2013,112,Obligating the parent company to extend a benevolent loan ensures that ongoing household claims are paid without disrupting community welfare.
+60,"""The participant must have an insurable interest or a legitimate Shariah-recognized relationship with the house being covered under the certificate.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1/1,2015,642,Requiring direct ownership or financial attachment to the insured house is compliant because it prevents the policy from turning into a gambling instrument.
+61,"""Takaful benefits for property damage shall be paid out to the person who holds the legal right of ownership or custody over the damaged home assets.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),6/2,2015,652,Disbursing claims exclusively to the lawful property owner or custodian prevents illegal misappropriation of community relief funds.
+62,"""The contract may allow for the automated renewal of the property certificate using standing instructions, provided the terms remain identical.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,Automated annual renewals for housing certificates are compliant as long as the pricing and asset conditions remain fully transparent to the consumer.
+63,"""The home contribution rate shall be calculated using robust actuarial methodologies that accurately reflect the historical loss probability of the dwelling.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.3,2013,15,"Relying on sound actuarial science for housing risks ensures fair pricing, preventing the exploitation of either the participant or the pool."
+64,"""If a home is destroyed completely, the maximum liability of the fund is capped strictly at the total sum covered agreed upon at contract inception.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6,2015,644,Capping the maximum financial payout at the pre-agreed sum covered is compliant because it removes open-ended operational liabilities from the fund.
+65,"""The operational expenses charged by the operator to the housing Takaful fund must be realistic, actual, and directly related to fund management.""",1,IFSA,Islamic Financial Services Act 2013,Section 93,2013,110,Ensuring that management expenses deducted from the public housing pool are justifiable prevents the wrongful depletion of charity-based funds.
+66,"""A non-Muslim consumer can legally participate in the housing Takaful scheme as a member of the mutual protection pool.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),3/1,2015,640,Allowing non-Muslims to join the house risk pool is compliant since mutual commercial protection contracts are open to all segments of society in Shariah.
+67,"""The operator shall establish a Shariah Committee to oversee all operational rules, marketing materials, and investment assets of the home product.""",1,IFSA,Islamic Financial Services Act 2013,Section 30,2013,34,Maintaining independent Shariah oversight over the housing product line is a statutory and religious mandate to guarantee continuous compliance.
+68,"""The house contents covered under this policy must not be utilized for carrying out commercial activities that violate Shariah principles.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3/2,2015,644,Restricting coverage to non-violating properties is compliant as Shariah strictly prohibits facilitating or protecting active avenues of sin.
+69,"""In the event that a third party causes damage to the participant's house, the Takaful fund reserves the right of subrogation to recover the loss.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6/3,2015,645,"Exercising the right of subrogation is compliant because it ensures the wrongdoer bears the financial consequence, saving the public fund from loss."
+70,"""The operator is permitted to purchase retakaful protection for the collective housing fund to shield it against mega-scale natural disasters.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.4.1,2013,22,Outward retakaful allocation is compliant as a secondary risk-mitigation tool necessary to preserve the financial solvency of the domestic house fund.
+71,"""If an Islamic retakaful company is completely unavailable in the region, the operator may use conventional reinsurance for the housing portfolio under necessity.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),8/2,2015,655,Utilizing conventional reinsurance during extreme local shortages is compliant under the Shariah doctrine of overriding operational necessity (Darurah).
+72,"""The calculation of any distributable surplus from the house fund must exclude any unpaid pending claims or unresolved litigation liabilities.""",1,IFSB,IFSB-14 (Risk Management for Takaful),5.1.2,2013,33,Restricting surplus distribution until all active home claims are fully quantified is compliant to safeguard the immediate liquidity of the pool.
+73,"""The contract terms for house protection must be written in a manner that is simple, clear, and easily understandable by an ordinary consumer.""",1,IFSA,Islamic Financial Services Act 2013,Section 142,2013,146,Enforcing clarity in consumer language for property insurance is compliant because it prevents hidden trap clauses and structural operational deceit.
+74,"""The participant's ownership of the contribution paid into the housing fund is relinquished permanently for charity purpose upon signing.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),3/2,2015,641,Irrevocably surrendering the premium to the common pool is compliant because it legally solidifies the conversion of money from commercial to charitable status.
+75,"""The home contents Takaful certificate shall automatically terminate upon the total physical destruction of the subject property by an unlisted event.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,Terminating the contract upon total destruction of the underlying asset is compliant as the direct subject matter of the contract has ceased to exist.
+76,"""The operator can deduct an upfront management fee from the home contribution, provided that the exact fixed fee is disclosed explicitly to the client.""",1,AAOIFI,Shariah Standard No. 23 (Agency),4/1/1,2015,566,"Charging an agent fee is compliant as long as there is total transparency regarding the quantum, eliminating any element of unknown cost (Jahl)."
+77,"""Any dispute arising from the interpretation of the property coverage clauses shall be referred to an independent financial ombudsman scheme.""",1,IFSA,Islamic Financial Services Act 2013,Section 136,2013,139,Providing a structured mediation avenue for property insurance conflicts is compliant to achieve fast judicial justice without protracted delay.
+78,"""A participant who deliberately sets fire to their own house shall be barred from receiving any compensation or benefit from the Takaful fund.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,Denying claims caused by intentional self-sabotage is compliant to protect the public fund from malicious exploitation and criminal enrichment.
+79,"""The home certificate allows for temporary coverage while the property is undergoing minor renovations or localized structural enhancements.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/2,2015,643,Maintaining risk continuity during property maintenance is compliant as it supports the normal operational preservation of private property assets.
+80,"""The operator may delay the payout of a property claim indefinitely if they suspect fraud, without providing any written justification or timeline.""",0,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 6",2013,249,Non-Compliant Baseline: Delaying legitimate home claim payouts without transparency or formal notification violates the consumer protection mandates of financial fairness.
+81,"""The valuation of household items for coverage purposes can be determined based on sentimental value rather than actual market cost.""",0,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6,2015,644,"Non-Compliant Baseline: Relying on subjective sentimental values introduces excessive uncertainty (Gharar), making claim settlements impossible to quantify fairly."
+82,"""All premium payments for the house policy must be processed through clean banking channels that are completely free from money laundering activities.""",1,IFSA,Islamic Financial Services Act 2013,Section 41,2013,49,Rejecting illicit money for property insurance is compliant with the broader Shariah objective of rejecting and cleaning out corrupted wealth.
+83,"""The operator shall provide an annual detailed statement to the home participant showing the performance, expenses, and claims of the risk pool.""",1,IFSB,IFSB-14 (Risk Management for Takaful),5.2.1,2013,36,Providing annual transparency reports for the property fund builds stakeholder confidence and satisfies the core Islamic rule of market information.
+84,"""If a participant fails to pay their annual property contribution on time, the operator can impose a compounding interest charge on the balance.""",0,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/3,2015,484,"Non-Compliant Baseline: Charging compounding interest on outstanding premium amounts is a clear form of Riba, which is strictly forbidden in Shariah."
+85,"""The house policy includes protection for legal costs incurred by the participant when defending a third-party liability suit inside the home compound.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/4,2015,644,Covering defense costs associated with domestic accidents is compliant as it represents an actual financial consequence stemming from a covered peril.
+86,"""The operator can alter the profit-sharing ratio of the housing investment fund unilaterally without notifying the active certificate holders.""",0,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/2/2,2015,647,Non-Compliant Baseline: Unilaterally modifying financial distribution ratios mid-contract breaches the binding contractual terms agreed upon by both parties.
+87,"""The Takaful protection applies strictly to physical property structures that are built on legally acquired and recognized land plots.""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 2",2013,245,Restricting coverage to legally established real estate is compliant as Shariah cannot recognize or defend properties built on usurped land (Ghasb).
+88,"""The home contract shall clearly state that any surplus arising from the fund belongs collectively to the participants, not to the operator's capital.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/3/1,2015,648,Declaring the participants as the ultimate rightful collective owners of the residual fund surplus is a fundamental pillar of authentic Takaful.
+89,"""The operator can use the home participants' Tabarru' funds to pay off the corporate tax liabilities of the operator's management company.""",0,IFSA,Islamic Financial Services Act 2013,Section 91,2013,109,Non-Compliant Baseline: Diverting charitable consumer risk funds to settle corporate shareholder liabilities is a severe breach of fiduciary duty and trust.
+90,"""A temporary grace period of thirty days is granted for home premium payments, during which the protection remains fully active.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,Offering a reasonable payment grace period for residential properties is compliant as it reflects Islamic tolerance and facilitates easier commerce.
+91,"""The property policy explicitly excludes any coverage for loss or damage resulting from the natural radioactive decay of nuclear materials.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.2,2013,14,"Omitting unmanageable, uninsurable high-tech nuclear hazards is compliant as it protects the collective pool from instantaneous financial collapse."
+92,"""The operator can cancel a participant's home coverage instantly at any time without giving any advance notice or valid operational reason.""",0,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,"Non-Compliant Baseline: Abruptly ending a property contract without prior warning introduces severe harm (Dharar) to the consumer, which is forbidden."
+93,"""The home contents coverage applies to items temporarily removed from the premises for repair, up to a specific capped percentage value.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,Extending off-site coverage for household items under repair is compliant as it matches standard practical consumer needs without causing extra ambiguity.
+94,"""The calculation of property depreciation must follow standardized financial accounting methods approved by the Shariah board.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6,2015,644,"Using structured, approved accounting methods for home asset depreciation ensures equity and removes personal bias during claims."
+95,"""In the event of the participant's death, the home policy rights are transferred to the lawful estate executors or heirs under Islamic law.""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 5",2013,248,Transferring contract continuity or benefit rights to lawful estate heirs complies with the overarching framework of Islamic inheritance law.
+96,"""The operator is permitted to invest the home fund reserves in short-term Islamic liquidity instruments like commodity murabahah.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),7/1,2015,653,"Utilizing approved short-term Islamic money market instruments is compliant to generate safe, halal yields for the house fund."
+97,"""The property policy conditions shall be nullified if the participant changes their religion or personal spiritual beliefs midway through the term.""",0,IFSA,Islamic Financial Services Act 2013,Section 143,2013,147,Non-Compliant Baseline: Voiding a valid commercial financial property contract based solely on personal religious changes violates civil and financial contractual justice.
+98,"""The operator must conduct regular internal Shariah audits specifically on the property claims department to verify payout compliance.""",1,IFSA,Islamic Financial Services Act 2013,Section 31,2013,35,Running regular internal Shariah compliance audits ensures that operational adjustments remain aligned with underlying Islamic contracts.
+99,"""All marketing brochures for the home product must be approved by the Shariah board before being distributed to the public.""",1,IFSA,Islamic Financial Services Act 2013,Section 33,2013,37,"Pre-vetting marketing materials prevents the use of deceptive advertising language, ensuring total clarity for prospective home clients."
+100,"""The Takaful certificate will not cover any loss to the house if the damage occurs while the property is completely abandoned for over ninety consecutive days.""",1,IFSB,IFSB-14 (Risk Management for Takaful),3.1.2,2013,14,Setting an explicit abandonment exclusion clause is compliant because it prevents excessive negligence and manages the risk profile of the pool.
+101,"""The bank shall purchase the residential property from the developer or vendor before selling it to the customer under Murabahah.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),2/2/1,2015,215,The clause is compliant because actual ownership and constructive possession of the house by the bank must precede its resale to the customer.
+102,"""The bank can sell the house to the customer under a Murabahah contract before the bank registers the property title under its own name.""",0,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),2/2/3,2015,216,"Non-Compliant Baseline: Selling an asset before acquiring legal or constructive possession constitutes selling what one does not own, which is strictly prohibited."
+103,"""In a Diminishing Musharakah housing finance, the bank and the customer shall enter into a partnership to co-own the property.""",1,AAOIFI,Shariah Standard No. 12 (Sharika and Modern Corporations),3/1/1,2015,312,The joint ownership framework is compliant because it establishes a valid partnership (Shirkah al-Milk) over the financed residential asset.
+104,"""The customer shall gradually purchase the bank's share of the house over the financing tenure through a series of separate sale contracts.""",1,AAOIFI,Shariah Standard No. 12 (Sharika and Modern Corporations),3/1/5,2015,314,"The gradual transfer of property shares is compliant as long as each share purchase is executed via an independent, distinct transaction."
+105,"""The bank is permitted to lease its share of the co-owned house to the customer in exchange for a mutually agreed rental payment.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah and Ijarah Muntahia Bittamleek),2/1,2015,240,Charging rent on the bank's portion of the property is compliant because the customer is actively utilizing the bank's share of the asset.
+106,"""The bank shall bear all structural maintenance costs of the leased house, while ordinary operational maintenance is borne by the tenant.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah and Ijarah Muntahia Bittamleek),4/1,2015,245,Allocating major structural liability to the owner (the bank) is compliant because asset ownership risks cannot be legally transferred to a tenant.
+107,"""The bank can automatically pass all structural repair costs of the house to the tenant by inserting a hidden indemnification clause.""",0,AAOIFI,Shariah Standard No. 9 (Ijarah and Ijarah Muntahia Bittamleek),4/3,2015,246,Non-Compliant Baseline: Forcing the tenant to pay for major structural defects violates the core legal principles of the Ijarah contract.
+108,"""If the financed house is completely destroyed by an act of God, the Ijarah contract terminates and the customer stops paying rent immediately.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah and Ijarah Muntahia Bittamleek),7/1,2015,251,Halting rent upon asset destruction is compliant because rental payments are contingent upon the usability of the underlying property.
+109,"""The financial institution shall ensure that property valuations for housing financing are conducted by independent, licensed appraisers.""",1,IFSB,IFSB-14 (Risk Management for Takaful/Financing),3.1.5,2013,16,Relying on certified third-party property valuations is compliant as it mitigates operational conflict of interest and market valuation errors.
+110,"""The Takaful contribution for a home policy can be dynamically adjusted based on the individual credit score of the property owner.""",0,IFSB,IFSB-14 (Risk Management for Takaful/Financing),3.1.3,2013,15,Non-Compliant Baseline: Setting property insurance premiums based purely on financial credit risk rather than actual asset peril exposure is actuarially flawed.
+111,"""The house policy covers physical damage resulting directly from the impact of falling trees or collapsing telecommunication towers.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/2,2015,643,The inclusion of unexpected external impact perils is compliant because it addresses tangible physical damage to the property structure.
+112,"""The participant must declare if the covered dwelling is built of standard brick and concrete or if it contains timber walls.""",1,IFSB,IFSB-14 (Risk Management for Takaful/Financing),3.1.2,2013,14,Requiring structural material declarations is compliant as it allows the pool to assess the proper fire risk profile of the house.
+113,"""If the house is left unoccupied for more than ninety consecutive days, the theft coverage under the certificate is automatically suspended.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,Suspending coverage due to extended vacancy is compliant as it prevents excessive risk inflation caused by a participant's negligence.
+114,"""The Takaful operator can utilize the participant's home fund to purchase speculative derivative instruments to hedge interest rate risks.""",0,IFSA,Islamic Financial Services Act 2013,Section 91,2013,109,Non-Compliant Baseline: Exposing public risk funds to highly speculative or interest-based financial derivatives violates Shariah asset management rules.
+115,"""Any investment profits generated from the housing Takaful reserve fund shall be credited back to the fund after deducting the manager's share.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),5/2/1,2015,647,Returning investment yields to the public pool is compliant because the reserve fund remains the collective property of the participants.
+116,"""The operator shall establish a dedicated consumer complaints unit to handle grievances regarding delayed property claim settlements.""",1,IFSA,Islamic Financial Services Act 2013,Section 136,2013,139,Maintaining a formal grievance resolution mechanism is compliant as it protects vulnerable consumers from corporate negligence.
+117,"""The house policy includes a temporary removal clause, extending coverage to contents shifted to another building due to impending flood.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,Extending off-site coverage during active emergencies is compliant because it promotes proactive asset preservation and mitigation of loss.
+118,"""The bank can charge a fixed administrative fee for processing a home financing application, provided it matches the actual overhead cost.""",1,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/1,2015,482,Charging processing fees based on actual administrative overhead is compliant since it does not constitute a hidden interest charge (Riba).
+119,"""The bank can link the processing fee of a home financing application directly to a percentage of the property value.""",0,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/2,2015,483,Non-Compliant Baseline: Scaling administrative fees to a percentage of the loan or property value is non-compliant as it mimics interest structures.
+120,"""In a housing Murabahah contract, the bank may require the customer to provide a monetary pledge as security against default.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),3/1,2015,220,Requiring a financial security deposit (Hamish Jiddiyyah) is compliant to protect the financing institution from non-genuine buyers.
+121,"""If the customer breaches their promise to buy the house under Murabahah, the bank can confiscate the entire deposit as pure profit.""",0,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),3/3,2015,221,"Non-Compliant Baseline: Retaining a promise deposit beyond the scope of actual, verifiable damages suffered by the bank constitutes unlawful enrichment."
+122,"""The bank may impose a financial penalty on late monthly payments for house financing, which must be fully donated to charity.""",1,AAOIFI,Shariah Standard No. 3 (Default/Late Payment Penalties),2/1,2015,92,Directing late fees strictly to charity is compliant because it deters deliberate default without generating usurious income for the lender.
+123,"""The late payment penalty collected from the home financing customer can be recorded directly as corporate income for the bank.""",0,AAOIFI,Shariah Standard No. 3 (Default/Late Payment Penalties),2/3,2015,94,Non-Compliant Baseline: Treating late payment fines as commercial revenue is strictly forbidden because it constitutes a form of Riba.
+124,"""The customer can choose to fully settle their home financing early and may receive a discretionary rebate from the financial institution.""",1,IFSA,Islamic Financial Services Act 2013,Section 141,2013,145,Granting a discretionary rebate (Ibra') for early settlement is compliant and highly encouraged to ease the financial burden on consumers.
+125,"""The housing contract shall contain a clause making it mandatory for the bank to grant a fixed, mathematically pre-calculated rebate upon early exit.""",0,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),4/6,2015,225,Non-Compliant Baseline: Legally binding the lender to a fixed future settlement rebate during contract inception is prohibited as it compromises price certainty.
+126,"""The house policy covers the cost of removing debris following a catastrophic fire that completely destroys the residential building.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/2,2015,643,"Covering debris removal costs is compliant as it represents a direct, unavoidable financial expense arising directly from the primary insured peril."
+127,"""The Takaful certificate will cover loss or damage to the home contents caused by a riot, provided an additional contribution is paid.""",1,IFSB,IFSB-14 (Risk Management for Takaful/Financing),3.1.1,2013,12,Adding explicit social riot protection via paid endorsements is compliant because it expands the mutual risk pool under transparent terms.
+128,"""The Takaful operator can deny a legitimate home fire claim if the participant belongs to a specific political affiliation.""",0,IFSA,Islamic Financial Services Act 2013,Section 143,2013,147,Non-Compliant Baseline: Denying claims based on personal political affiliation is non-compliant as it introduces unfair discrimination into consumer contracts.
+129,"""The home contents policy excludes coverage for property damage resulting from wear, tear, gradual deterioration, or atmospheric conditions.""",1,IFSB,IFSB-14 (Risk Management for Takaful/Financing),3.1.2,2013,14,"Excluding natural wear and tear is compliant because insurance can only cover sudden, fortuitous events, not certain physical aging processes."
+130,"""The participant has a legal obligation to inform the operator if their insured home is converted into a commercial storage warehouse.""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 5",2013,248,Requiring notification for material risk alterations is compliant because changes in building usage fundamentally alter the underlying risk pool dynamics.
+131,"""The Takaful operator must maintain liquid asset reserves specifically allocated to meet immediate property damage claims during peak flood seasons.""",1,IFSB,IFSB-14 (Risk Management for Takaful/Financing),4.3.2,2013,31,Maintaining strict liquidity management for seasonal environmental perils is compliant and necessary to ensure systemic pool stability.
+132,"""The bank may act as a purchasing agent (Wakil) for the customer to procure the house from the vendor, prior to executing the Murabahah sale.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),2/2,2015,215,"Utilizing a preliminary agency contract (Wakalah) to facilitate property procurement is compliant, provided it is distinct from the ultimate sale."
+133,"""The bank can combine the preliminary agency contract and the final Murabahah sale of the house into a single, inseparable legal document.""",0,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),2/3,2015,216,Non-Compliant Baseline: Merging an agency role and a principal sale into one transaction creates a conflict of roles and results in a forbidden dual-contract structure.
+134,"""In an Istisna' housing contract, the financial institution agrees to manufacture or construct a new residential home according to strict specifications.""",1,AAOIFI,Shariah Standard No. 11 (Istisna'a and Parallel Istisna'a),2/1,2015,290,"Constructing homes under pre-agreed design, material, and time parameters is compliant because specification removes excessive contract uncertainty."
+135,"""The delivery date for a house under construction via Istisna' can be left completely open-ended and subject to the developer's sole discretion.""",0,AAOIFI,Shariah Standard No. 11 (Istisna'a and Parallel Istisna'a),3/2,2015,293,"Non-Compliant Baseline: Failing to fix a definitive delivery timeline for a constructed house introduces severe Gharar, rendering the contract void."
+136,"""The bank can execute a parallel Istisna' contract with a sub-contractor to build the house, remaining fully liable to the ultimate customer.""",1,AAOIFI,Shariah Standard No. 11 (Istisna'a and Parallel Istisna'a),4/1,2015,295,Utilizing a parallel construction contract is compliant as long as the bank accepts primary liability for delivery quality toward the consumer.
+137,"""The house policy covers the replacement of a residential water filter system damaged by an accidental vehicle impact within the compound.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,"Covering external domestic fixtures against sudden vehicle impacts is compliant since it represents a clear, accidental loss to home property."
+138,"""The Takaful operator can reduce the claim payout value if the participant repairs their home using unapproved, substandard non-halal materials.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/6,2015,644,Adjusting claim payouts based on standardized repair material rules is compliant to maintain equity and prevent structural fraud.
+139,"""The financial institution shall conduct comprehensive stress-testing on its residential mortgage portfolio against extreme property market crashes.""",1,IFSB,IFSB-14 (Risk Management for Takaful/Financing),4.2.3,2013,29,Implementing macroeconomic stress-testing on home financing portfolios is compliant with sound institutional risk management standards.
+140,"""The bank can demand the immediate, full accelerated repayment of the entire outstanding home financing balance if the customer misses a single payment.""",0,AAOIFI,Shariah Standard No. 8 (Murabahah to the Purchase Orderer),4/4,2015,223,Non-Compliant Baseline: Triggering full asset acceleration without providing a fair cure period or proof of systemic insolvency is an oppressive condition.
+141,"""The Takaful certificate will cover a guest's personal belongings damaged during a major household fire up to a specified sub-limit.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/3,2015,644,Extending hospitality-based emergency protection to guests within the home is compliant as it reflects Islamic communal values of care.
+142,"""The home policy premium must be paid in full at inception unless a structured, interest-free installment plan is formally agreed upon.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/5,2015,644,Allowing structured premium installments without adding credit finance interest is compliant with non-usurious commercial standards.
+143,"""The Takaful operator is legally permitted to allocate a portion of the house risk fund to sponsor local community fire-safety awareness programs.""",1,IFSA,Islamic Financial Services Act 2013,Section 93,2013,110,Spending risk pool reserves on preventative risk-reduction programs is compliant because it actively lowers the overall loss probability of the pool.
+144,"""The bank can increase the monthly rental rate of a Diminishing Musharakah house contract unilaterally if global interest benchmark rates fluctuate.""",0,AAOIFI,Shariah Standard No. 9 (Ijarah and Ijarah Muntahia Bittamleek),5/2,2015,248,Non-Compliant Baseline: Changing rental values arbitrarily without a pre-agreed formula or mutual contract amendment introduces prohibitive contractual conflict.
+145,"""The home financing contract can use a public floating benchmark index like the Islamic Interbank Offered Rate to calculate variable rental rates.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah and Ijarah Muntahia Bittamleek),5/3,2015,249,"Utilizing an objective, transparent public benchmark to determine future rental adjustments is compliant because it eliminates personal bias and uncertainty."
+146,"""The Takaful company can invest the home fund capital into Shariah-compliant real estate investment trusts that hold commercial property portfolios.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),7/1,2015,653,Investing in equity-backed Islamic REITs is compliant because the underlying assets are real tangible properties that generate lawful rental yields.
+147,"""The operator can refuse to provide a copy of the property certificate's full terms and conditions to the homeowner after receiving the premium.""",0,IFSA,Islamic Financial Services Act 2013,Section 142,2013,146,Non-Compliant Baseline: Withholding core contract text from the consumer introduces severe Jahl and violates statutory requirements of market transparency.
+148,"""The house policy covers the breakdown of domestic electrical installations caused directly by a power surge following a lightning strike.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/2,2015,643,Covering electrical damage linked to a natural atmospheric peril is compliant as it addresses a direct causal line of accidental physical property loss.
+149,"""The bank shall bear the cost of property ownership taxes (such as quit rent and assessment tax) during the active leasing phase of a housing Ijarah.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah and Ijarah Muntahia Bittamleek),4/2,2015,246,Paying statutory ownership taxes is compliant because the legal owner of the property asset (the bank) must bear all ownership-related fiscal duties.
+150,"""The Takaful operator can completely clear out the accumulated surplus of the home fund and distribute it solely to corporate executive directors as bonuses.""",0,IFSA,Islamic Financial Services Act 2013,Section 91,2013,109,Non-Compliant Baseline: Misappropriating underwriting pool surpluses intended for participants to enrich company executives is an illegal breach of fiduciary duty.
+151,"""The interest/profit rate charged on this Islamic home financing may be fixed or floating based on the ceiling rate capped at inception.""",1,IFSA,Islamic Financial Services Act 2013,Section 29 / SAC Ruling,2013,33,"Compliant: The dual-term usage is acceptable in commercial Product Disclosure Sheets, and floating rates are compliant as long as a maximum ceiling rate is locked to eliminate risk ambiguity (Gharar)."
+152,"""The bank shall charge a late payment fee of 1% per annum on the amount in arrears, which will be channeled partly as compensation and partly to charity.""",1,IFSA,Islamic Financial Services Act 2013,SAC LPC Guidelines,2013,115,"Compliant: In Malaysian Islamic finance, a 1% late charge is permitted because it is split into Ta'widh (actual cost recovery) and Gharamah (penalty for charity), preventing the bank from pocketing usurious profit."
+153,"""The bank reserves the right to set-off any credit balance in the customer's savings or current accounts to settle outstanding house financing defaults.""",1,AAOIFI,Shariah Standard No. 19 (Loan/Qard) / Al-Maqassah,4/1,2015,488,"Compliant: The right of set-off is fully compliant under the Shariah principle of Al-Maqassah (debt offsetting), allowing a lender to clear a liquid, default debt using the debtor's available deposits."
+154,"""The customer may enjoy flexibility of redrawing excess payments from the home financing facility via a sequential Tawarruq execution.""",1,IFSA,Islamic Financial Services Act 2013,Tawarruq Policy Document,2013,52,Compliant: Redrawing excess cash is compliant in a flexible Islamic housing contract because it utilizes a fresh commodity sale (Tawarruq) rather than a commercial interest-bearing loan feature.
+155,"""The applicable pricing for this home financing is calculated using the Standard Base Rate (SBR) plus a fixed profit spread of 1.35% per annum.""",1,IFSA,Islamic Financial Services Act 2013,SAC Benchmark Policy,2013,41,"Compliant: Referencing a conventional floating benchmark like the SBR to price an Islamic home product is permitted, as it serves merely as a cost-index pricing mechanism."
+156,"""The bank will establish a housing facility where interest continues to compound daily on any overdue balances until full settlement.""",0,AAOIFI,General Prohibition of Riba,Core Principle,2015,22,"Non-Compliant: Compounding interest daily on overdue house balances is a severe form of Riba al-Nasi'ah, which treats time extensions as a commodity to extract usury."
+157,"""The customer shall subscribe to a Mortgage Reducing Term Takaful (MRTT) to secure the outstanding property financing value.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,"Compliant: Mandating an MRTT for property coverage is compliant because the protection pool is built on mutual solidarity, charity (Tabarru'), and clear non-usurious parameters."
+158,"""The total interest cost shown in this document represents the conventional equivalent pricing for consumer comparison purposes only.""",1,IFSA,Islamic Financial Services Act 2013,Section 142 / Disclosure,2013,146,"Compliant: Displaying equivalent interest metrics for consumer comparison is compliant, provided the underlying financing contract relies strictly on a valid sale or lease."
+159,"""If the customer defaults on the property financing, the bank will increase the contractual profit rate dynamically to a penalty rate of SBR plus 6%.""",0,AAOIFI,Shariah Standard No. 3 (Default Penalties),2/1,2015,92,Non-Compliant: Escalating the core profit rate as a penalty for default is non-compliant because a debt's price cannot be altered or increased after the contract execution.
+160,"""The customer may be granted a structural rebate (Ibra) on the total selling price of the house upon successful early settlement of the facility.""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,145,Compliant: Granting a rebate (Ibra') for early settlement of real estate financing is highly compliant and encouraged under Shariah to reward early debt clearance.
+161,"""The bank charges a processing fee of RM50.00 for redrawing excess funds to cover the actual corporate administrative cost of the transaction.""",1,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/1,2015,482,"Compliant: Charging a fixed transaction fee is permitted because it is directly tied to the actual, verifiable manual or digital administrative expenses of the operator."
+162,"""The redraw fee for this home account shall be calculated dynamically as 2% of the total amount of excess cash being withdrawn by the user.""",0,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/2,2015,483,Non-Compliant: Structuring a transaction fee as a percentage of the cash being withdrawn turns the administrative fee into an illegal usurious charge on credit.
+163,"""This product is a Shariah-compliant Home Financing facility operating under the underlying contract of Commodity Murabahah.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah),2/1,2015,214,Compliant: Utilizing Commodity Murabahah (Tawarruq) to provide home financing is compliant as it structures the cash provision through a series of real asset buy-and-sell trades.
+164,"""The customer agrees to enter into a mortgage loan contract where the property is charged as a direct security for a usurious debt.""",0,AAOIFI,General Prohibition of Riba,Core Principle,2015,15,Non-Compliant: Entering into a conventional mortgage loan is strictly prohibited because the core financial relationship is built on a lender-borrower interest structure.
+165,"""The Effective Profit Rate (EPR) of the housing asset may vary month to month but will never exceed the structural Ceiling Profit Rate (CPR).""",1,IFSA,Islamic Financial Services Act 2013,SAC Pricing Rules,2013,45,Compliant: A fluctuating Effective Profit Rate is compliant because the presence of a rigid Ceiling Profit Rate guarantees that the customer's maximum financial exposure is finite.
+166,"""The bank can capitalize all unpaid monthly property interest amounts directly into the core principal loan balance at the end of the year.""",0,AAOIFI,General Prohibition of Riba,Core Principle,2015,22,"Non-Compliant: Capitalizing interest amounts into a principal debt balance creates an illegal compounding interest cycle, which is the baseline definition of severe Riba."
+167,"""The Bank will maintain a Fire Takaful scheme for the residential property through Etiqa Takaful or any approved Islamic panel operator.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),2/1,2015,640,Compliant: Sourcing property protection exclusively through registered Takaful operators ensures that the asset preservation mechanism remains free from gambling and usury.
+168,"""The bank shall provide a full discretionary waiver of late payment charges if the property buyer provides verifiable proof of unexpected medical emergency.""",1,IFSA,Islamic Financial Services Act 2013,Section 136 / Consumer Protection,2013,139,Compliant: Waiving penalties due to consumer hardship matches the Shariah objective of financial mercy (Inzar al-Mu'sir) and enhances structural ethical standards.
+169,"""If the housing developer goes bankrupt, the bank has the absolute right to accelerate all interest payments and demand full settlement from the buyer.""",0,AAOIFI,Shariah Standard No. 11 (Istisna'a),3/2,2015,293,"Non-Compliant: Forcing a consumer to immediately repay accelerated usurious interest over an incomplete, non-delivered property is an oppressive condition."
+170,"""The bank acts as an agent (Wakil) to purchase the housing commodities on the asset market before selling the final property rights to the client.""",1,AAOIFI,Shariah Standard No. 23 (Agency),2/1,2015,562,"Compliant: Appointing the bank or an agent to conduct preliminary asset trades is permitted, provided the agency role is legally separated from the ultimate sale."
+171,"""The agency contract and the asset sale contract for the residential financing are executed simultaneously within the exact same clause.""",0,AAOIFI,Shariah Standard No. 8 (Murabahah),2/3,2015,216,"Non-Compliant: Blending an agency appointment and a principal sale into a single, undifferentiated contract layer creates a forbidden dual-contract structure."
+172,"""The residential property financing is structured via Diminishing Musharakah, where the bank's asset shares are purchased monthly by the client.""",1,AAOIFI,Shariah Standard No. 12 (Sharika),3/1/1,2015,312,Compliant: Diminishing Musharakah is an authentic equity-partnership model where the consumer gradually acquires full sole ownership of the home.
+173,"""In this housing contract, the bank retains the right to increase the rental rate of the home unilaterally without following any pre-agreed index formula.""",0,AAOIFI,Shariah Standard No. 9 (Ijarah),5/2,2015,248,"Non-Compliant: Modifying rental charges arbitrarily without referencing a transparent, pre-determined formula or benchmark index introduces excessive Gharar."
+174,"""The rental rate for the financed home will be adjusted periodically using the Islamic Interbank Offered Rate (IIOR) as an objective transparent index.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah),5/3,2015,249,Compliant: Relying on a clear public financial index like the IIOR to adjust lease pricing is permitted because it removes subjective manipulation and maintains clarity.
+175,"""The house buyer is required to pay a security deposit (Hamish Jiddiyyah) to prove the financial seriousness of their property purchase application.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah),3/1,2015,220,Compliant: Collecting a security deposit (Hamish Jiddiyyah) is permitted to protect a financial institution from losses caused by non-genuine purchase orders.
+176,"""If the customer cancels the property purchase promise, the bank will retain the entire security deposit as non-refundable corporate revenue.""",0,AAOIFI,Shariah Standard No. 8 (Murabahah),3/3,2015,221,"Non-Compliant: Confiscating an entire promise deposit without itemizing and proving the actual, direct financial damages suffered constitutes unlawful wealth extraction."
+177,"""The bank shall bear the cost of basic structural property insurance and capital property taxes during the ownership phase of the housing Ijarah.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah),4/2,2015,246,Compliant: Forcing the legal owner (the bank) to pay for structural ownership preservation costs is a core requirement to maintain a valid Islamic lease.
+178,"""The tenant agrees to bear all costs for the replacement of blown light bulbs, internal painting, and minor daily maintenance of the home.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah),4/1,2015,245,"Compliant: Allocating superficial, ordinary operational maintenance costs to the active tenant or occupier of a house is fully compliant with standard Ijarah rules."
+179,"""The home financing customer will be penalized with a compounding penalty fee if they choose to switch their home insurance to an external Takaful operator.""",0,IFSA,Islamic Financial Services Act 2013,Section 142 / Anti-Tie-In,2013,146,Non-Compliant: Restricting a consumer's freedom to select a valid Shariah-compliant alternative through monetary fines is an unfair and non-compliant practice.
+180,"""The bank can request the assignment of the customer's salary account as a secondary collateral guarantee for the residential financing facility.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah) / Rahn,3/1,2015,220,Compliant: Requesting salary assignment or financial lien structures as collateral (Rahn) is permitted under Shariah law to secure a validly established debt.
+181,"""The bank shall charge interest on any delayed valuation fees accumulated during the initial property appraisal phase.""",0,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/1,2015,482,Non-Compliant: Applying an interest accumulation rate onto outstanding administrative fees introduces a clear secondary layer of prohibited Riba.
+182,"""The house financing contract will be automatically terminated if the physical structural integrity of the residential building is lost due to landslide.""",1,AAOIFI,Shariah Standard No. 9 (Ijarah),7/1,2015,251,Compliant: Terminating a lease arrangement upon asset destruction is mandatory because the asset's utility—which justifies the rental collection—has ceased to exist.
+183,"""The bank will continue to charge the full monthly rental amount on the house even if the building is condemned by engineers and rendered unlivable.""",0,AAOIFI,Shariah Standard No. 9 (Ijarah),7/1,2015,251,Non-Compliant: Demanding rental payments for a destroyed or totally unusable property asset is prohibited as it represents charging money without providing a counter-utility.
+184,"""All marketing brochures and Product Disclosure Sheets for this residential home line must be fully vetted and signed off by the Shariah Committee.""",1,IFSA,Islamic Financial Services Act 2013,Section 33,2013,37,Compliant: Implementing pre-distribution Shariah board vetting over promotional copy is a mandatory regulatory step to prevent consumer misrepresentation.
+185,"""The bank has the right to change the predefined profit-sharing ratio of the home investment fund retroactively without customer notification.""",0,AAOIFI,Shariah Standard No. 12 (Sharika),3/1/5,2015,314,Non-Compliant: Adjusting financial distribution weightages retroactively and unilaterally violates contract sanctity and causes severe dispute (Niza').
+186,"""The property contract allows for an early settlement rebate formula that is transparently detailed inside the product disclosure documentation.""",1,IFSA,Islamic Financial Services Act 2013,Section 141,2013,145,Compliant: Publishing the mathematical framework for early settlement rebates enhances operational transparency and prevents informational asymmetry (Jahl).
+187,"""The customer agrees that any late payment charges collected by the bank as a pure penalty fee will be absorbed directly into the bank's core revenue.""",0,AAOIFI,Shariah Standard No. 3 (Default Penalties),2/3,2015,94,"Non-Compliant: Retaining punitive default fines as general commercial income converts the penalty into Riba, which is structurally forbidden."
+188,"""This residential home product strictly excludes any financing or asset coverage for properties constructed on illegally acquired or usurped land plots.""",1,IFSA,Islamic Financial Services Act 2013,"Schedule 9, Para 2",2013,245,Compliant: Excluding properties built on usurped real estate (Ghasb) is compliant because Shariah principles cannot validate or extend protection to illegal asset captures.
+189,"""The home facility allows for a maximum financing tenure of thirty-five years or until the customer reaches the age of seventy, whichever comes first.""",1,IFSA,Islamic Financial Services Act 2013,SAC Macroprudential Rules,2013,18,Compliant: Setting age and tenure boundaries for property financing matches national financial stability frameworks and does not violate any Shariah codes.
+190,"""The bank can convert the customer's outstanding profit balance into a compounding short-term interest loan if the client fails to clear it within a month.""",0,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/1,2015,482,Non-Compliant: Transforming a halal outstanding profit balance into an active interest-bearing loan configuration introduces a classic compounding Riba cycle.
+191,"""The Takaful operator shall maintain a separate accounting stream for the residential pool to avoid mixing participant risk donations with shareholder cash.""",1,IFSA,Islamic Financial Services Act 2013,Section 90,2013,108,Compliant: Maintaining distinct financial funds for participants and shareholders is a critical operational standard to prevent institutional conflict of interest.
+192,"""The bank shall provide a guarantee that the value of the customer's residential real estate asset will never depreciate below the initial buying price.""",0,AAOIFI,Shariah Standard No. 12 (Sharika),3/1,2015,312,Non-Compliant: Guaranteeing a partner's asset value against market depreciation in a joint investment or partnership violates the core Shariah rule of risk-sharing.
+193,"""The residential financing package includes a complimentary basic home contents protection policy operating under the principle of Tabarru'.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),3/2,2015,641,"Compliant: Offering built-in, charity-based property contents protection is highly compliant as it enhances consumer welfare via a mutual gift mechanism."
+194,"""The customer must clear all outstanding municipal property appraisal fees before the final signing and execution of the Musharakah contract.""",1,AAOIFI,Shariah Standard No. 12 (Sharika),3/1/1,2015,312,Compliant: Requiring the settlement of necessary legal and physical validation fees before launching a partnership ensures that the asset entering the pool is verified.
+195,"""The bank has the right to demand the immediate full physical repossession of the home if the property market value falls below a certain threshold.""",0,IFSB,IFSB-14 (Risk Management),3.1.5,2013,16,Non-Compliant: Demanding instant asset repossession based solely on external macroeconomic market drops rather than customer default is an oppressive term.
+196,"""The home financing facility can be structured using an Istisna' contract to finance the progressive structural development of a new residential estate.""",1,AAOIFI,Shariah Standard No. 11 (Istisna'a),2/1,2015,290,Compliant: Utilizing Istisna' for off-plan residential builds is fully compliant because locking down construction designs eliminates speculative risk (Gharar).
+197,"""The developer can alter the final architectural room layouts of the house unilaterally during construction without updating the Istisna' contract text.""",0,AAOIFI,Shariah Standard No. 11 (Istisna'a),3/2,2015,293,Non-Compliant: Modifying an under-construction property's material specifications unilaterally introduces prohibited material uncertainty into the sale.
+198,"""The home financing agreement specifies that any disputes regarding compliance parameters shall be referred to the Shariah Advisory Council of Bank Negara Malaysia.""",1,IFSA,Islamic Financial Services Act 2013,Section 29 / Supremacy Clause,2013,33,Compliant: Referencing national apex Shariah councils for dispute resolution is compliant and serves as a statutory requirement to ensure regulatory legal finality.
+199,"""The bank can charge a fixed penalty fee of RM200.00 for early settlement to recoup the actual administrative costs of file cancellation.""",1,AAOIFI,Shariah Standard No. 3 (Default Penalties),3/1,2015,95,"Compliant: Charging an early exit fee is permitted as long as the quantum is directly mapped to the real, quantifiable operational labor and processing expenses incurred."
+200,"""The bank can automatically extend the financing timeline of the home by five years and apply an extra 2% flat interest surcharge on the total balance.""",0,AAOIFI,General Prohibition of Riba,Core Principle,2015,12,Non-Compliant: Automatically lengthening a property financing timeline while piling extra flat interest surcharges on the balance is a pure manifestation of commercial usury.
+201,"""The Shariah concept applicable is Tawarruq.""",1,IFSA,Islamic Financial Services Act 2013,SAC Tawarruq Policy,2013,1,Compliant: Explicitly naming and declaring the underlying Shariah concept (Tawarruq) establishes immediate transactional transparency and legal clarity for the home financing structure.
+202,"""Tawarruq means an arrangement that involves two sales and purchase contracts.""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),2/1,2015,812,Compliant: Providing an accurate Fiqh definition of Tawarruq as a dual-sale mechanism aligns the legal documentation with standard Islamic jurisprudence.
+203,"""To facilitate Tawarruq arrangement, you appoint the Bank as your agent (under wakalah/agency contract) to buy a Shariah compliant commodity from the Bank at selling price based on Murabahah (cost plus profit) comprising purchase price and the Bank's profit on deferred payment basis.""",1,AAOIFI,Shariah Standard No. 23 (Agency/Wakalah) / No. 8,2/1,2015,562,"Compliant: Combining an agency (Wakalah) appointment with a cost-plus sale (Murabahah) on a deferred basis is acceptable, provided the execution steps are sequentially separated."
+204,"""Subsequently, you, through the Bank acting as your agent, will sell the same commodities to a third party on a cash and spot basis.""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),4/2,2015,815,Compliant: Selling the monetized commodity to an independent third party on a spot-cash basis is standard practice to secure immediate liquid funds without entering a prohibited bi' al-inah cycle.
+205,"""The proceeds from the sale of the commodities will be paid to you in accordance with the agreed terms and conditions.""",1,IFSA,Islamic Financial Services Act 2013,Tawarruq Operational Guidelines,2013,14,Compliant: Disbursing the underlying commodity trade proceeds directly to the customer ensures the contract fulfills its primary financial purpose of asset acquisition.
+206,"""The type of commodity used in this product is Shariah-compliant commodity, not limited to, crude palm oil, oleo chemicals, rubber, cocoa and soya products or such other acceptable commodities (excluding ribawi items in the category of medium of exchange such as currency, gold and silver).""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),3/1,2015,813,"Compliant: Specifying non-ribawi, non-monetary commodities while strictly excluding gold, silver, and currencies is mandatory to prevent usurious exchange flaws."
+207,"""No lock in period for this facility and the Bank shall grant Ibra (rebate), if any, on the remaining outstanding amount of the Bank's Selling Price based on the full settlement of the Facility.""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,2,Compliant: Committing to grant a structural rebate (Ibra') upon early settlement without binding the customer to a lock-in period is a standard consumer-friendly practice under BNM guidelines.
+208,"""Ibra (rebate) will be calculated based on the formula below or any other calculation method as prescribed by Bank Negara Malaysia: - Ibra (rebate) = deferred profit""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,4,Compliant: Defining the rebate formula as equivalent to the unearned deferred profit aligns with Bank Negara Malaysia's mandatory statutory requirements.
+209,"""Late Payment Charges: No Applicable Period Late Payment Charge Rate""",1,IFSA,Islamic Financial Services Act 2013,SAC Late Payment Guidelines,2013,8,Compliant: Outlining a formal late payment parameter framework ensures transparent operational tracking without enforcing automatic un-Islamic penal interest.
+210,"""1% per annum calculated on a daily balance basis""",1,IFSA,Islamic Financial Services Act 2013,LPC Shariah Ruling,2013,9,"Compliant: Applying a capped 1% per annum late fee is permitted in Malaysia, provided it functions under the strict parameters of actual cost compensation (Ta'widh)."
+211,"""Current Islamic Interbank Money Market Rate (“IMM”) per annum calculated on a daily balance basis""",1,IFSA,Islamic Financial Services Act 2013,IIMM Framework,2013,11,Compliant: Utilizing the standard Islamic Interbank Money Market (IIMM) rate to benchmark post-maturity default charges ensures pricing stays within Islamic financial parameters.
+212,"""Late payment charges by way of Ta'widh (compensation charges).""",1,AAOIFI,Shariah Standard No. 3 (Default Penalties) / Ta'widh,2/1,2015,92,Compliant: Formally classifying default penalties under the concept of Ta'widh (actual cost compensation) distinguishes it from general usurious revenue (Riba).
+213,"""Mortgage Reducing Term Takaful (MRTT) can be financed by the Bank as part of this Home Financing-i to help you settle your home financing in the event something happens to you.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,Compliant: Offering built-in financing for an MRTT policy is compliant because Takaful relies on mutual risk-sharing (Tabarru') rather than conventional commercial risk transfer.
+214,"""Fire Takaful is a compulsory takaful to protect the property""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),2/1,2015,640,Compliant: Making Fire Takaful mandatory for structural asset preservation is a valid risk management practice that adheres entirely to Shariah insurance protocols.
+215,"""This financing is under the Shariah principle of Tawarruq.""",1,IFSA,Islamic Financial Services Act 2013,SAC Tawarruq Policy,2013,1,Compliant: Clear identification of the specific underlying Shariah mechanism satisfies the core disclosure prerequisites of an Islamic contract.
+216,"""Tawarruq consists of two sale and purchase contracts.""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),2/1,2015,812,"Compliant: Declaring the structural existence of two independent, consecutive sale transactions is legally accurate and fulfills asset ownership transfer requirements."
+217,"""The first involves the sale of an asset by a seller to a purchaser on a deferred basis.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah),2/2,2015,215,"Compliant: Executing an initial deferred-payment sale allows the consumer to defer cash obligations, establishing a valid debt (Dayn) foundation for the home product."
+218,"""Subsequently, the purchaser of the first sale will sell the same asset to a third party on a cash and spot basis.""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),4/2,2015,815,Compliant: The subsequent spot-cash transaction with a separate trade counterparty safely isolates the financing framework from forbidden interdependent buybacks.
+219,"""The customer purchases the commodities from the Bank on Murabahah (cost plus sale) basis at the Bank's Sale Price.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah),2/1,2015,214,"Compliant: Structuring the bank-to-client transaction on a cost-plus-profit (Murabahah) basis is highly compliant, as profit generation via asset trade is fundamentally halal."
+220,"""In this arrangement, the purchase will be performed by the Bank as the customer's Purchase Agent.""",1,AAOIFI,Shariah Standard No. 23 (Agency/Wakalah),2/2,2015,563,Compliant: Appointing the bank as a purchasing agent (Wakalah) to manage asset sourcing streamlines execution while preserving legal agency protocols.
+221,"""As the Sale Agent for the customer, the Bank shall then sell the commodities to a Commodity Purchaser at cost price.""",1,AAOIFI,Shariah Standard No. 23 (Agency/Wakalah),2/4,2015,565,Compliant: Acting as a selling agent to offload commodities at cost price to an external market player successfully complete the monetization sequence.
+222,"""Proceeds from the transaction will be disbursed for customer's utilization.""",1,IFSA,Islamic Financial Services Act 2013,Tawarruq Operational Guidelines,2013,14,Compliant: Releasing liquidity directly to the user or their designated property vendor matches standard operational compliance workflows.
+223,"""The customer is obliged to pay the amount due from the Murabahah transaction as per the agreed terms.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah),4/1,2015,224,Compliant: Enforcing a clear legal obligation on the customer to settle the fixed Murabahah debt ensures full contract sanctity and performance.
+224,"""Commodities means any commodities acceptable to the Bank e.g. palm oil, plastic resin, rubber, cocoa beans, soy beans, timber and metal (excluding gold and silver).""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),3/1,2015,813,"Compliant: Itemizing explicit, real industrial raw materials while explicitly excluding precious ribawi metals ensures the underlying trades avoid currency exchange violations."
+225,"""There is no lock in period for this facility and the Bank shall grant rebate (Ibra') on the deferred profits upon full settlement of the financing.""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,2,Compliant: Mandating a complete rebate on all unearned deferred profits upon early settlement prevents the institutional collection of unjust income.
+226,"""Ibra' (rebate) on early settlement = Deferred Profit""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,5,Compliant: Explicit algebraic disclosure of the primary rebate calculation architecture satisfies core consumer transparency standards.
+227,"""Deferred Profit = Total Contracted Profit - Accrued Profit""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,5,"Compliant: Breaking down deferred profit into its secondary accounting sub-components provides mathematical transparency, eliminating structural ambiguity."
+228,"""Total Contracted Profit = Sale Price - Purchase Price (or Financing Amount)""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,6,Compliant: Defining overall contracted profit as the raw difference between sale and purchase prices adheres to classic Murabahah bookkeeping rules.
+229,"""Accrued Profit is calculated based on EPR of the outstanding Purchase Price (or Financing Amount) being disbursed (or utilised).""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,6,Compliant: Benchmarking active accrued profit strictly against the disbursed balance using an Effective Profit Rate (EPR) prevents charging profit on non-disbursed capital.
+230,"""Late Payment Charge (Ta'widh) will be apply as follows when you fail to fulfil your obligation:""",1,AAOIFI,Shariah Standard No. 3 (Default Penalties) / Ta'widh,2/1,2015,92,Compliant: Setting up an objective conditional trigger framework for late payment processing establishes operational risk transparency.
+231,"""Before Maturity of Facility: A sum equivalent to one per cent (1%) per annum on overdue instalments until date of full payment.""",1,IFSA,Islamic Financial Services Act 2013,SAC LPC Guidelines,2013,9,Compliant: Limiting pre-maturity default fees to a flat 1% per annum prevents punitive rate escalation and ensures compliance with BNM's Ta'widh limits.
+232,"""After Maturity of Facility: A sum equivalent to the prevailing daily overnight Islamic Interbank Money Market (IIMM) rate on outstanding balance i.e. outstanding Sale Price less Ibra', if any.""",1,IFSA,Islamic Financial Services Act 2013,IIMM Framework,2013,11,Compliant: Dropping the post-maturity penalty down to match the prevailing overnight IIMM benchmark ensures that post-term charges do not accumulate as Riba.
+233,"""Post Judgement Debt: A sum equivalent to the prevailing daily overnight Islamic IIMM rate on basic judgment sum calculated from judgment date until date of full payment.""",1,IFSA,Islamic Financial Services Act 2013,SAC Judgement Sum Policy,2013,15,Compliant: Aligning post-judgment debt penalties directly with official central bank overnight market rates complies with statutory judicial requirements.
+234,"""The imposition of Ta'widh shall be in such manner as approved by Bank Negara Malaysia from time to time.""",1,IFSA,Islamic Financial Services Act 2013,Section 29 / Regulatory Approval,2013,33,Compliant: Subjecting internal institutional compensation metrics to the dynamic authority of the central bank's Shariah Advisory Council guarantees ongoing compliance.
+235,"""The Bank accept MRTT or MLTT coverage only for the financing facility while the conventional MRTA is strictly prohibited.""",1,IFSA,Islamic Financial Services Act 2013,Section 29 / Shariah Supremacy,2013,35,Compliant: Enforcing a structural ban on conventional commercial MRTA policies protects the transactional ecosystem from usurious and speculative insurance products.
+236,"""Mortgage Reducing Term Takaful (MRTT) or Mortgage Level Term Takaful (MLTT) - compulsory.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),4/1,2015,642,Compliant: Requiring cooperative Islamic protection products (MRTT/MLTT) to mitigate long-term home default risks is fully compliant.
+237,"""You are free to choose the service of any non-panel Takaful Operators in the country.""",1,IFSA,Islamic Financial Services Act 2013,Section 142 / Consumer Liberty,2013,146,"Compliant: Preserving a consumer's freedom to opt for external, non-panel Islamic Takaful operators satisfies fair-treatment and anti-competitive codes."
+238,"""House Owner Takaful / Householder Takaful Plan (HOT) - if applicable.""",1,AAOIFI,Shariah Standard No. 26 (Islamic Insurance),2/1,2015,640,"Compliant: Offering standard House Owner Takaful plans provides an authentic, mutual solidarity alternative to secure physical property skins against natural perils."
+239,"""The Bank has the right to set off your deposit or any other account(s) maintained with the Bank towards settlement of overdue payment under this facilities granted by the Bank.""",1,AAOIFI,Shariah Standard No. 19 (Loan/Qard) / Al-Maqassah,4/1,2015,488,Compliant: The inclusion of a standard banking set-off right to recover mutual overdue obligations falls under the legitimate Fiqh framework of debt balancing (Al-Maqassah).
+240,"""This financing is under the Shariah principle of Tawarruq.""",1,IFSA,Islamic Financial Services Act 2013,SAC Tawarruq Policy,2013,1,Compliant: The primary statement confirms the product's alignment with an approved non-usurious liquidity and asset procurement model.
+241,"""Tawarruq consists of two sale and purchase contracts.""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),2/1,2015,812,Compliant: Defining the fundamental structure transparently ensures that the legal nature of the contract is clear to both counter-parties.
+242,"""The customer purchases the commodities from the Bank on Murabahah (cost plus sale) basis at the Bank's Sale Price.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah),2/1,2015,214,Compliant: Confirming that the core debt arises from an asset-backed trade transaction validates the contract's fundamental compliance.
+243,"""Commodities means any commodities acceptable to the Bank e.g. palm oil, plastic resin, rubber, cocoa beans, soy beans, timber and metal (excluding gold and silver).""",1,AAOIFI,Shariah Standard No. 30 (Monetization/Tawarruq),3/1,2015,813,Compliant: Restricting trade variables exclusively to non-precious industrial items keeps the asset-level exchanges safe from usury vulnerabilities.
+244,"""There is no lock in period for this facility and the Bank shall grant rebate (Ibra') on the deferred profits upon full settlement of the financing.""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,2,Compliant: Legally guaranteeing a full waiver on unearned profit layers during settlement phases reinforces transparency and structural compliance.
+245,"""Ibra' (rebate) on early settlement = Deferred Profit""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,5,Compliant: Standard mathematical representation of dynamic rebate allocations keeps documentation well within central bank consumer clarity rules.
+246,"""Late Payment Charge (Ta'widh) will be apply as follows""",1,AAOIFI,Shariah Standard No. 3 (Default Penalties) / Ta'widh,2/1,2015,92,Compliant: Introducing cost-compensation rules to manage overdue operational parameters avoids conventional usurious penalty traps.
+247,"""The Bank accept MRTT or MLTT coverage only for the financing facility while the conventional MRTA is strictly prohibited.""",1,IFSA,Islamic Financial Services Act 2013,Section 29 / Shariah Supremacy,2013,35,Compliant: Formally prohibiting conventional mortgage insurance prevents mixing non-compliant financial elements into the underlying contract structure.
+248,"""The bank's deferred profit collection must drop to zero immediately upon the real-time processing of an early settlement request.""",1,IFSA,Islamic Financial Services Act 2013,Ibra' Policy Document,2013,4,Compliant: Eliminating future profit claims instantly upon transaction settlement satisfies basic Shariah requirements against excessive enrichment.
+249,"""The underlying commodity procurement will be completed prior to the initiation of the deferred sale transaction with the customer.""",1,AAOIFI,Shariah Standard No. 8 (Murabahah),2/2/1,2015,215,Compliant: Enforcing correct chronograms for asset acquisition ensures that the bank never executes a sale on property it does not own.
+250,"""The customer shall pay a fixed administrative transaction fee that reflects the actual digital operational cost of commodity exchange.""",1,AAOIFI,Shariah Standard No. 19 (Loan/Qard),2/1,2015,482,"Compliant: Restricting service fee mechanics to flat, un-scaled operational cost parameters protects transactions from hidden usurious pricing layers."
+251,"""The Facility is calculated on a variable rate basis and you are offering your property as security.""",0,AAOIFI,Shariah Standard No. 19,1,2015,12,Non-Compliant: Utilizing a conventional variable interest rate framework without anchoring it to a Shariah selling price or ceiling rate constitutes an active usurious debt structure.
+252,"""Interest is chargeable on the utilized portion of the overdraft facility.""",0,AAOIFI,Shariah Standard No. 19,2,2015,482,Non-Compliant: Charging a contractual financial percentage (interest) on the active drawdown of credit represents a direct execution of Riba al-Nasi'ah.
+253,"""A commitment fee (as described under item Fees and Charges Below) will be chargeable on the unutilised portion of the overdraft facility.""",0,AAOIFI,Shariah Standard No. 19,3,2015,483,"Non-Compliant: Levying a financial commitment fee based on unutilized credit allocations is prohibited, as the lender is securing a monetary benefit without providing any real asset or service exchange."
+254,"""Total interest cost at the end of 35 years tenure on the assumption the SBR does not change.""",0,AAOIFI,Shariah Standard No. 19,4,2015,14,Non-Compliant: The formal inclusion and calculated projection of an active 'interest cost' confirms the contract is a standard conventional transaction built on usury.
+255,"""The interest/profit rate charged may be fixed, floating or combination of fixed and floating, single or multiple interest/profit rates.""",0,IFSA,Section 29,5,2013,35,Non-Compliant: Merging conventional 'interest' and Islamic 'profit' options into an undifferentiated contractual clause invalidates Shariah compliance due to structural inconsistency and ambiguity.
+256,"""Floating rate is typically based on the Base Lending Rate (BLR) plus/minus an interest spread eg BLR+1.75%.""",0,AAOIFI,Shariah Standard No. 19,6,2015,18,"Non-Compliant: Applying an interest-based pricing spread to a conventional Base Lending Rate is forbidden, as it defines the pricing return through explicit usurious margins."
+257,"""Monthly progressive Interest to be paid RM100,000 × 5.6% × 31 / 365 days = RM475.62""",0,AAOIFI,Shariah Standard No. 19,7,2015,482,Non-Compliant: Executing continuous mathematical formulas to charge progressive daily interest on housing funds represents a textbook application of commercial Riba.
+258,"""Interest computation on daily rest.""",0,AAOIFI,Shariah Standard No. 19,8,2015,482,Non-Compliant: Computing credit debt obligations on a daily interest compounding rest framework is strictly prohibited as a manifestation of financial usury.
+259,"""Interest rate: SBR + 1.55% per annum (p.a.)""",0,AAOIFI,Shariah Standard No. 19,9,2015,12,Non-Compliant: Establishing an explicit conventional interest rate as the core pricing engine for a housing arrangement is a direct violation of the absolute ban on Riba.
+260,"""Total interest cost at the end of 30 years (RM) 292,172""",0,AAOIFI,Shariah Standard No. 19,10,2015,14,Non-Compliant: Documenting a binding legal ledger that enforces a multi-decade interest accumulation confirms the non-compliant nature of the underlying real estate facility.
+261,"""Bayaran ansuran bulanan pinjaman ini akan berubah dan berbeza tertakluk kepada perubahan Kadar Faedah Efektif (EIR).""",0,IFSA,Section 142,11,2013,146,Non-Compliant: Tying active consumer repayment parameters directly to changes in an un-Islamic Effective Interest Rate (EIR) framework constitutes structural usury.
+262,"""Kadar Faedah Efektif (setahun) / Effective Interest Rate (EIR) (per annum)""",0,AAOIFI,Shariah Standard No. 19,12,2015,20,Non-Compliant: Utilizing a conventional Effective Interest Rate metric as the primary financial pricing reference identifies the credit package as a usurious loan.
+263,"""Jumlah keseluruhan kos faedah pada akhir tempoh pinjaman [30] tahun: RM262,490.19""",0,AAOIFI,Shariah Standard No. 19,13,2015,14,Non-Compliant: The contractual enforcement of an explicitly itemized conventional interest cost balance represents an unlawful collection of usury over a real estate asset timeline.
+264,"""The interest/profit rate charged may be fixed, floating or combination of fixed and floating.""",0,IFSA,Section 29,14,2013,35,"Non-Compliant: Blending interest structures with profit terminology within a single line fails to establish a definitive, compliant Shariah contract mechanism."
+265,"""Floating rate is based on the Standardised Base Rate (SBR) plus an interest/profit spread eg SBR+1.45%.""",0,AAOIFI,Shariah Standard No. 19,15,2015,18,Non-Compliant: Linking asset financing pricing parameters to an interest-bearing spread is non-compliant as it incorporates raw usurious premiums into the repayment cycle.
+266,"""Monthly progressive Interest: RM100,000 × 4.45% × 31 / 365 days = RM378""",0,AAOIFI,Shariah Standard No. 19,16,2015,482,Non-Compliant: The active extraction of a monthly progressive fee calculated using explicit daily interest equations is a direct application of forbidden Riba.
+267,"""You will pay more in total as a result of your principal amount increases due to the accumulated unpaid interest, late payment charges or if there is change of interest rate.""",0,AAOIFI,Shariah Standard No. 3,17,2015,93,Non-Compliant: Compounding unpaid interest and unspecified late charges directly into a rising principal debt balance is a severe form of compounding usury (Riba al-Jahiliyyah).
+268,"""We will give you prior written notice if the interest rate changes.""",0,AAOIFI,Shariah Standard No. 19,18,2015,12,Non-Compliant: Formalizing a framework to notify consumers about fluctuations in a conventional interest rate confirms the underlying property contract is usurious.
+269,"""Late Payment Penalty 1% p.a on the amount in arrears.""",0,AAOIFI,Shariah Standard No. 3,19,2015,92,"Non-Compliant: Enforcing a generic, raw penalty on debt arrears without limiting it to actual cost compensation (Ta'widh) or directing it to charity transforms it into Riba."
+270,"""Default Rate: In the event default (non-payment) on three (3) consecutive payments ... the Bank shall be entitled to convert the prescribed rate to BLR+2.50% per annum.""",0,AAOIFI,Shariah Standard No. 3,20,2015,94,Non-Compliant: Increasing the pricing rate to an elevated penal rate upon client default is a form of punitive debt amplification which is completely barred in Islamic finance.
+271,"""Late payment charges of 1% per annum on the amount in arrears till settlement of the amount in arrears.""",0,AAOIFI,Shariah Standard No. 3,21,2015,93,Non-Compliant: Applying an ongoing percentage fine over delayed balances without explicit structural classification under Ta'widh principles mimics conventional late interest.
+272,"""When the Facility Days Past Due is ninety one (91) days, the Bank shall ... revise the prescribed rate ... to Prescribe Rate + 0.64% p.a.""",0,AAOIFI,Shariah Standard No. 3,22,2015,92,Non-Compliant: Escalating a contract's interest margin based on a 91-day default timeline represents a forbidden usurious penalty framework for delayed debt clearance.
+273,"""Penalti Lewat Bayar sebanyak satu peratus (1%) akan dikenakan ke atas amaun tertunggak.""",0,IFSA,Section 29,23,2013,115,Non-Compliant: Charging a raw default penalty over an arrears balance without anchoring the income mechanism under Ta'widh or charity parameters constitutes Riba.
+274,"""Kadar Mungkir (Default Rate) ke atas baki pinjaman berkuat kuasa serta-merta pada tarikh berikutnya selepas kemungkiran tersebut.""",0,AAOIFI,Shariah Standard No. 3,24,2015,94,Non-Compliant: Automatically activating an amplified Default Rate over a core balance instantly post-default is non-compliant as it expands a debt obligation through usury.
+275,"""Late Payment Penalty 1% p.a on the amount in arrears.""",0,AAOIFI,Shariah Standard No. 3,25,2015,92,Non-Compliant: Levying an explicitly named default penalty that flows directly into an institution's retail profit ledger violates Shariah asset-backing rules.
+276,"""Default Interest Rate: ... the Bank shall be entitled to convert the prescribed rate to SBR+6.15% per annum.""",0,AAOIFI,Shariah Standard No. 3,26,2015,94,Non-Compliant: Forcing a highly elevated penal interest overlay (SBR + 6.15%) upon a defaulting customer operates as an exploitative usurious penalty structure.
+277,"""Mortgage Reducing Term Assurance ('MRTA') or Mortgage Level Term Assurance ('MLTA') is a non-participating single premium plan which provides death and total and permanent disability coverage.""",0,AAOIFI,Shariah Standard No. 26,27,2015,678,Non-Compliant: Mandating an MRTA/MLTA policy is prohibited because conventional commercial insurance contains core structural elements of gambling (Maysir) and high uncertainty (Gharar).
+278,"""Fire or houseowner insurance is required to cover the property against the risk of fire.""",0,AAOIFI,Shariah Standard No. 26,28,2015,640,Non-Compliant: Requiring a standard conventional commercial insurance framework instead of a cooperative Takaful scheme injects prohibited Gharar into asset security.
+279,"""Mortgage Reducing Term Assurance (MRTA) or Mortgage Reducing Term Takaful (MRTT)""",0,IFSA,Section 29,29,2013,35,Non-Compliant: Offering standard commercial insurance (MRTA) as an interchangeable alternative to a Takaful structure fails to enforce mandatory Shariah risk protection compliance.
+280,"""Fire insurance/home owner's insurance to cover the property (compulsory).""",0,AAOIFI,Shariah Standard No. 26,30,2015,641,Non-Compliant: Forcing the consumer into a conventional commercial fire policy to secure property collateral is non-compliant due to embedded usurious and speculative flows.
+281,"""Mortgage reducing term insurance (MRTA)/Credit Level Term Assurance (CLTA)/Credit Reducing Term Assurance (CRTA) is optional but highly encouraged.""",0,AAOIFI,Shariah Standard No. 26,31,2015,678,Non-Compliant: Endorsing a suite of conventional commercial insurance policies (MRTA/CLTA/CRTA) within a property contract incorporates non-compliant risk-transfer products.
+282,"""Compulsory Fire Insurance.""",0,AAOIFI,Shariah Standard No. 26,32,2015,640,Non-Compliant: Restricting residential asset preservation mandates to conventional commercial fire insurance lines breaks the required purity of an Islamic contract.
+283,"""The Bank may provide quotations to you for any compulsory insurance offered by the Bank's own panel of insurance provider.""",0,IFSA,Section 142,33,2013,146,Non-Compliant: Directing housing consumers exclusively to commercial insurance corporations instead of cooperative Takaful operators is a non-compliant risk management step.
+284,"""Perlindungan Insurans Gadai Janji Berkurangan (MRTA) adalah digalakkan untuk melindungi pinjaman anda.""",0,AAOIFI,Shariah Standard No. 26,34,2015,678,Non-Compliant: Recommending a conventional mortgage insurance protection path (MRTA) fails to align the home facility with cooperative mutual protection codes.
+285,"""Perlindungan Insurans Rumahku / Kebakaran / Insurans Rumahku Jangka Panjang (IRJP), jika perlu.""",0,AAOIFI,Shariah Standard No. 26,35,2015,640,Non-Compliant: Incorporating standard long-term conventional insurance product parameters to manage property structural risks introduces un-Islamic contract parameters.
+286,"""Mortgage Reducing Term Assurance (MRTA) / Credit Level Term Assurance (CLTA)""",0,AAOIFI,Shariah Standard No. 26,36,2015,678,Non-Compliant: Listing conventional mortgage and credit insurance policies as the primary asset protection tools is prohibited due to the presence of Gharar.
+287,"""Fire Insurance policy / Houseowner's policy / Houseowner Xtra's policy""",0,AAOIFI,Shariah Standard No. 26,37,2015,641,Non-Compliant: Framing property hazard preservation entirely around commercial fire and householder policies excludes the required application of a Takaful alternative.
+288,"""The Bank will take up and maintain a Fire Insurance policy on your behalf from Etiga or from the Bank's panel of insurance companies.""",0,AAOIFI,Shariah Standard No. 26,38,2015,640,Non-Compliant: Utilizing standard commercial insurance companies to preserve a financed property's shell violates the cooperative risk mitigation parameters of Shariah.
+289,"""Lock in period: years with effect from 1st/full loan disbursement. Early settlement fees: % on approved loan amount.""",0,AAOIFI,Shariah Standard No. 3,39,2015,95,Non-Compliant: Enforcing a punitive early settlement fee formatted as a percentage of the loan without providing a guaranteed right to a rebate (Ibra') is prohibited.
+290,"""Retention period is 3 years from date of first disbursement. No lock in period for Subsale financing. Early settlement penalty: 2% flat on the financing amount if redeemed within 3 years retention period.""",0,AAOIFI,Shariah Standard No. 3,40,2015,95,Non-Compliant: Levying a 2% flat punitive monetary fine for early asset redemption within a retention timeline violates Shariah rules requiring dynamic debt concession instead of penalty extraction.
+291,"""Partial settlements are allowed and may be used to reduce the principal Facility amount but you must issue a written request.""",0,IFSA,Section 29,41,2013,2,Non-Compliant: Outlining partial repayment procedures while completely failing to state or mandate a corresponding reduction in unearned deferred profit (Ibra') is non-compliant.
+292,"""Anda perlu mengemukakan notis bertulis kepada Bank untuk mendapatkan amaun penjelasan awal.""",0,IFSA,Section 29,42,2013,4,Non-Compliant: Restricting early settlement parameters to basic administrative notifications without legal acknowledgment of a customer's mandatory right to a rebate is non-compliant.
+293,"""Lock in period ... Early settlement fees""",0,AAOIFI,Shariah Standard No. 3,43,2015,95,Non-Compliant: Imposing punitive operational exit charges inside a lock-in period is a conventional mechanism designed to block early debt clearance through financial penalties.
+294,"""The Facility is a basic term loan with a fixed payment schedule.""",0,AAOIFI,Shariah Standard No. 19,44,2015,15,"Non-Compliant: Structuring a property financing package as a conventional commercial 'term loan' lacks any required underlying Shariah asset sale, lease, or equity partnership framework."
+295,"""Interest is chargeable on the utilized portion of the overdraft facility.""",0,AAOIFI,Shariah Standard No. 19,45,2015,482,Non-Compliant: Applying periodic interest calculations over an open credit balance represents a standard conventional usurious mechanism devoid of Murabahah or Tawarruq parameters.
+296,"""The product is a mortgage loan/credit facility secured against residential or commercial properties.""",0,AAOIFI,Shariah Standard No. 19,46,2015,20,Non-Compliant: Defining a residential transaction as a commercial 'mortgage loan' indicates that the contract is an exchange of cash for cash with an interest-bearing return.
+297,"""The facility is available in conventional and Islamic version""",0,IFSA,Section 29,47,2013,34,Non-Compliant: The explicit confirmation that the current agreement template covers a conventional framework indicates it operates via interest-bearing pathways.
+298,"""AFFIN HOME SOLUTION PLUS is a housing loan with product features such as interest on daily rest.""",0,AAOIFI,Shariah Standard No. 19,48,2015,482,Non-Compliant: Combining a conventional 'housing loan' label with an active daily-rest interest charging engine establishes a completely non-compliant asset model.
+299,"""BSN MyHome Skim Rumah Pertamaku (SRP) ... Skim ini membolehkan pembeli rumah untuk mendapatkan pinjaman perumahan sehingga 110%.""",0,AAOIFI,Shariah Standard No. 19,49,2015,15,Non-Compliant: Framing a real estate acquisition scheme as a 110% margin conventional loan (pinjaman) confirms the facility functions as a usurious financing tool.
+300,"""The product is a mortgage loan/credit facility secured against residential or commercial properties.""",0,AAOIFI,Shariah Standard No. 19,50,2015,20,Non-Compliant: Legal allocation of real estate properties as direct security under a traditional 'mortgage loan' construct confirms the contract is rooted in Riba.
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
