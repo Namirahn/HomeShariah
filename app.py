@@ -150,6 +150,15 @@ div[data-testid="stForm"] {
     margin-top: 15px;
 }
 
+/* Instruction Container Box Style */
+.instruction-box {
+    background-color: rgba(29, 78, 216, 0.03);
+    border: 1px solid rgba(29, 78, 216, 0.15);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
 .dataframe {
     border-radius: 8px;
     overflow: hidden;
@@ -163,44 +172,15 @@ div[data-testid="stForm"] {
 if 'scan_history' not in st.session_state:
     st.session_state['scan_history'] = []
 
-if 'logged_in' not in st.session_state:
-    st.session_state['logged_in'] = False
-
-if 'current_user' not in st.session_state:
-    st.session_state['current_user'] = None
-
-if 'user_role' not in st.session_state:
-    st.session_state['user_role'] = None
+# SEMENTARA: Set default status kepada True dan berikan nilai terus kepada profile admin
+st.session_state['logged_in'] = True
+st.session_state['current_user'] = "admin"
+st.session_state['user_role'] = "Admin"
 
 # =========================================================
-# MODULE A: USER LOGIN SECTION
+# CORE PORTAL ENVIRONMENT (SISTEM DIJALANKAN TERUS)
 # =========================================================
-if not st.session_state.get('logged_in', False):
-    st.markdown("<div class='login-box'>", unsafe_allow_html=True)
-    st.markdown("<h2 style='text-align: center; font-weight:800; letter-spacing:-0.5px; margin-top:0; padding-top:0;'>SYSTEM LOGIN</h2>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align:center; opacity:0.6; font-size:13px; margin-bottom:20px;'>Shariah Document Analysis Portal</p>", unsafe_allow_html=True)
-
-    with st.form("login_form"):
-        input_username = st.text_input("Username", placeholder="Enter your username...")
-        input_password = st.text_input("Password", type="password", placeholder="Enter your password...")
-        submit_login = st.form_submit_button("Sign In", use_container_width=True)
-
-        if submit_login:
-            if input_username == "admin" and input_password == "123456789":
-                st.session_state['logged_in'] = True
-                st.session_state['current_user'] = "admin"
-                st.session_state['user_role'] = "Admin"
-                st.markdown("<div class='success-banner'>Login Successful - Welcome Admin</div>", unsafe_allow_html=True)
-                st.rerun()
-            else:
-                st.markdown("<div class='error-banner'>Invalid Username or Password</div>", unsafe_allow_html=True)
-
-    st.markdown("</div>", unsafe_allow_html=True)
-
-# =========================================================
-# CORE PORTAL ENVIRONMENT
-# =========================================================
-else:
+if st.session_state.get('logged_in', False):
     # =========================================================
     # 4. LOAD MODEL & DATASET WITH DATA CLEANING
     # =========================================================
@@ -295,12 +275,6 @@ else:
         if st.button("Clear Audit History", use_container_width=True):
             st.session_state['scan_history'] = []
             st.rerun()
-            
-        if st.button("Sign Out", type="primary", use_container_width=True):
-            st.session_state['logged_in'] = False
-            st.session_state['current_user'] = None
-            st.session_state['user_role'] = None
-            st.rerun()
 
     # =========================================================
     # 8. MAIN TABS (STRICT ENGLISH)
@@ -318,8 +292,35 @@ else:
     # =========================================================
     with tab1:
         st.markdown("<div class='main-title'>SHARIAH COMPLIANCE PORTAL</div>", unsafe_allow_html=True)
-        st.markdown("<h5 style='text-align:center; font-weight:400; opacity:0.7; margin-bottom:30px;'>Hybrid NLP-Based Islamic Finance Document Analysis</h5>", unsafe_allow_html=True)
+        st.markdown("<h5 style='text-align:center; font-weight:400; opacity:0.7; margin-bottom:25px;'>Hybrid NLP-Based Islamic Finance Document Analysis</h5>", unsafe_allow_html=True)
         
+        # ---------------------------------------------------------
+        # SYSTEM INFO & EXPLICIT USER INSTRUCTIONS
+        # ---------------------------------------------------------
+        st.markdown("""
+        <div class="instruction-box">
+            <h4 style="margin-top:0; color:#1d4ed8; font-weight:700;">System Overview & Operational Instructions</h4>
+            <p style="font-size:14px; opacity:0.85; line-height:1.6;">
+                Welcome to the Shariah Compliance Portal. This automated prototype leverages a <strong>Hybrid NLP Engine (SBERT + Rule-Based Lexical Layer)</strong> to detect and analyze potential Shariah risks (Riba, Gharar, and Maysir) inside legal housing financing documents.
+            </p>
+            <hr style="border:0; border-top:1px solid rgba(29, 78, 216, 0.15); margin:12px 0;">
+            <h5 style="margin-bottom:8px; font-weight:600; color:#111827;">How to operate the platform:</h5>
+            <ol style="font-size:13.5px; opacity:0.9; padding-left:20px; line-height:1.7;">
+                <li>Navigate to the <strong>Document Scanner</strong> tab on the upper menu bar.</li>
+                <li>Upload your housing financing draft agreement or Product Disclosure Sheet (PDS) in <strong>PDF format</strong>.</li>
+                <li>Click the <strong>'Analysis Document'</strong> action button to trigger the 5-layer computational pipeline.</li>
+                <li>Examine the generated summary metrics, isolated infractions, risk domain tagging, and academic justification logs.</li>
+            </ol>
+        </div>
+        """, unsafe_allow_html=True)
+
+        # External Google Form Survey Link button as requested
+        st.markdown("<p style='font-size:13px; font-weight:600; margin-bottom:5px; color:#374151;'>System Evaluation Survey:</p>", unsafe_allow_html=True)
+        st.link_button("Complete User Feedback (Google Form)", "https://forms.gle/BHpLXbq2oi4fSqZb8", use_container_width=True)
+        st.write("")
+        st.divider()
+
+        # Dashboard Numerical Counters
         col1, col2, col3 = st.columns(3)
         with col1:
             st.markdown(f'<div class="metric-card"><h1 style="color:#1d4ed8; margin:0;">{len(st.session_state["scan_history"])}</h1><p style="margin:0; font-weight:600; opacity:0.8;">Total Documents Analysed</p></div>', unsafe_allow_html=True)
@@ -360,7 +361,6 @@ else:
                     raw_text = re.sub(r'\s+', ' ', raw_text)
 
                     sentences = []
-                    # REMOVED GENERAL WORDS LIKE 'amount', 'tenure', 'rm' TO PREVENT FALSE NOISE BLOCKING
                     blacklist = ["www", "0.00", "0%", "visit"]
 
                     # Preprocessing Loop & Noise Filtering Sequence
@@ -370,7 +370,6 @@ else:
                             continue
 
                         sentence_norm = sentence.lower()
-                        # CRITICAL FIX 2: LOWERED THRESHOLD FROM 60 TO 20 CHARACTERS TO CATCH SHORT NON-COMPLIANT CLAUSES
                         if len(sentence_norm) > 20:
                             if not any(word in sentence_norm for word in blacklist):
                                 if not re.match(r'^\d+(\.\d+)*\s+[A-Z\s]{5,15}$', sentence):
@@ -396,29 +395,19 @@ else:
 
                             kw_score, kw_found, kw_category = keyword_score(sentences[i])
                             
-                            # Standard Fusion Hybrid Scoring Calculation
                             final_score = (0.7 * semantic_score) + (0.3 * (kw_score > 0))
                             txt_lower = sentences[i]
 
-                            # -----------------------------------------------------
-                            # CRITICAL FIX 1: PUSH OVERRIDE RULES TO THE ENTRANCE GATE
-                            # -----------------------------------------------------
                             is_override_triggered = False
                             forced_label = None
 
-                            # Case A: Strict Non-Compliant Override (Interest is present, but profit is absent)
                             if "interest" in txt_lower and "profit" not in txt_lower:
                                 is_override_triggered = True
                                 forced_label = 0  # Force FLAGGED status
-
-                            # Case B: Strict Compliant Safe Guards (Legitimate Islamic terms present)
                             elif "profit rate" in txt_lower or "interest/profit" in txt_lower or "etiqa" in txt_lower or "takaful" in txt_lower:
                                 is_override_triggered = True
                                 forced_label = 1  # Force PASSED status
 
-                            # -----------------------------------------------------
-                            # PIPELINE ROUTING DECISION MATRIX
-                            # -----------------------------------------------------
                             if is_override_triggered:
                                 label = forced_label
                                 status = "PASSED" if label == 1 else "FLAGGED"
@@ -426,11 +415,10 @@ else:
                                 label = kb_labels[best_index]
                                 status = "PASSED" if label == 1 else "FLAGGED"
                             else:
-                                status = "PASSED"  # Below threshold, falls back to noise or safe default
+                                status = "PASSED"
 
                             badge_class = "status-passed" if status == "PASSED" else "status-flagged"
 
-                            # Only append structural log records if the active clause is isolated as FLAGGED
                             if status == "FLAGGED":
                                 total_flagged += 1
                                 results.append({
@@ -444,9 +432,6 @@ else:
                                     "justification": kb_reasons[best_index] if not df_lib.empty else "Non-compliant term detected via Keyword Override Module."
                                 })
 
-                        # =========================================================
-                        # RE-ENGINEERED COMPLIANCE RATIO & VERDICT
-                        # =========================================================
                         total_passed = total_sentences - total_flagged
                         compliance_score = (total_passed / total_sentences) * 100 if total_sentences > 0 else 100.0
                         verdict = "NON-COMPLIANT" if total_flagged > 0 else "COMPLIANT"
@@ -460,13 +445,11 @@ else:
                             "Overall Verdict": verdict
                         })
 
-                        # 1. Primary Document Status Banner
                         if total_flagged > 0:
                             st.markdown(f'<div class="result-banner" style="color: #ef4444; background-color: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.2);">OVERALL VERDICT: {verdict}</div>', unsafe_allow_html=True)
                         else:
                             st.markdown(f'<div class="result-banner" style="color: #10b981; background-color: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.2);">OVERALL VERDICT: {verdict}</div>', unsafe_allow_html=True)
 
-                        # 2. Optimized Summary Breakdown Matrix
                         st.markdown("### Document Audit Summary")
                         m_col1, m_col2, m_col3 = st.columns(3)
                         
@@ -502,7 +485,6 @@ else:
                         st.write("")
                         st.divider()
 
-                        # 3. List of Granular Violations (If Any)
                         if total_flagged > 0:
                             st.markdown("### List of Shariah Infractions (Flagged Clauses):")
                             for res in results:
@@ -521,9 +503,9 @@ else:
                     else:
                         st.warning("No valid clauses found after preprocessing text filters.")
 
-# =========================================================
-# TAB 4 — AUDIT HISTORY
-# =========================================================
+    # =========================================================
+    # TAB 4 — AUDIT HISTORY
+    # =========================================================
     with tab4:
         st.subheader("Session Audit History Logs")
         st.caption("Audit trail logs tracking document evaluation metadata within the active window session.")
@@ -533,9 +515,9 @@ else:
         else:
             st.info("No documents evaluated within this current session yet.")
 
-# =========================================================
-# TAB 5 — ABOUT SYSTEM
-# =========================================================
+    # =========================================================
+    # TAB 5 — ABOUT SYSTEM
+    # =========================================================
     with tab5:
         st.markdown("""
             <h2 style='font-weight:700;'>System Information & Methodology</h2>
